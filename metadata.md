@@ -50,7 +50,7 @@ A research group member should type the title of their junior seminar research
 project into the following fenced code block.
 
 ```text
-CollabTrace - A Cross-Platform System for Semantic Summarization of Collaborative Changes
+CoTrace - A Chrome Extension for Semantic Summarization of Collaborative Changes
 ```
 
 ## Research Group Contributions
