@@ -65,77 +65,48 @@ researchers.
 Document significant feedback you provided to other research group members
 during presentations, demonstrations, or informal discussions. Include:
 
-- **Researcher Name / Project**: Evan Nelson
+- **Researcher Name / Project**: Evan Nelson/ WorkoutEvaluator
 - **Feedback Provided**: Suggested improvements to the introduction
 - **Impact**: Will hopefully lead to Researcher implementing the suggestion in their introduction.
 - **Reference**: [Link to the issue](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-EvanNelson04/issues/7)
 
-Example entries:
+- **Researcher Name / Project**: Logan Greer/ CaddySense
+- **Feedback Provided**: Suggested improvements to the introduction
+- **Impact**: Will hopefully lead to Researcher adding metrics limitation section and improve formatting
+- **Reference**: [Link to the issue](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-greer01/issues/15)
 
-- **Student Name One / Machine Learning Bias Detection**: Suggested examining
-  fairness metrics beyond accuracy; Jane incorporated demographic parity analysis
-  into her evaluation framework
-- **Student Name Two / Distributed Caching System**: Asked about handling
-  network partitions during demo; led to important discussion about consistency
-  models
-- **Student Name Three / Graph Algorithm Visualization**: Recommended adding
-  real-time performance comparison; Alex added this feature in Week 12
+- **Researcher Name / Project**: Coltin Colucci/ GDBuddy
+- **Feedback Provided**: Suggested improvements to the introduction in section "Automating Embedded Testing"
+- **Impact**: Will hopefully lead to Researcher to specify what test cases the instructor must write or how students can define sucess
+- **Reference**: [Link to the issue](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-Coltin2121/issues/12)
 
 ### Technical Discussions and Problem-Solving
 
 Document instances where you participated in collaborative technical
 discussions or helped fellow researchers troubleshoot issues:
 
-- **Discussion Topic / Problem**: [Brief description]
-- **Your Contribution**: [What you shared, suggested, or helped debug]
-- **Outcome**: [How it helped advance the research]
-
-Example entries:
-
-- **Docker Containerization Issues**: Shared my Dockerfile configuration and
-  helped three researchers set up their development environments
-- **Statistical Testing Discussion**: Explained paired t-tests vs. Wilcoxon
-  tests; helped multiple researchers choose appropriate tests for their
-  experiments
-- **GitHub Actions Debugging**: Collaborated with two researchers to fix CI/CD
-  pipeline failures; documented solution in group Slack channel
+- **Discussion Topic / Problem**: During a demo presentation for MaintAlign, I asked how users should provide input data to the tool.
+- **Your Contribution**: I suggested using CSV as the primary input format and recommended adding a simple template file so users can format their data correctly before uploading.
+- **Outcome**:  This made the data-ingestion workflow clearer and more practical, and the template idea can lower adoption barriers for companies using MaintAlign.
 
 ### Research Group Meeting Participation
 
 Note particularly meaningful contributions during research group meetings:
 
-- **Meeting Date / Topic**: [When and what]
-- **Contribution**: [Question asked, insight shared, or resource provided]
-- **Value to Group**: [How it benefited the research community]
-
-Example entries:
-
-- **Week 4 / Research Ethics Discussion**: Raised important questions about
-  data privacy in web scraping projects; led to productive discussion about
-  `robots.txt` and ethical boundaries
-- **Week 9 / Writing Workshop**: Shared effective strategies for writing
-  related work sections; multiple researchers found it helpful because it
-  clarified the way they should structure the second chapter of their report
-- **Week 11 / Results Visualization**: Demonstrated `matplotlib` customization
-  techniques; several researchers adopted similar approaches
+- **Week 5 / Research Ethics Discussion**: Led a conversation about user input
+  transparency, emphasizing that tools should clearly explain how they use
+  submitted data and what information they access.
 
 ### Research Resources Shared
 
 Document any research papers, tools, tutorials, or other resources you shared
 with the research group that helped advance collective knowledge:
 
-- **Resource**: [Paper title, tool name, tutorial link, etc.]
-- **Shared With**: [Individual researcher or entire group]
-- **Purpose**: [Why you shared it and how it was relevant]
-
-Example entries:
-
-- **"Testing in Production" Paper**: Shared with entire group during Week 7;
-  relevant for multiple systems research projects
-- **Plotly Visualization Tutorial**: Shared with four researchers working on
-  data-heavy projects; enabled interactive visualizations
-- **arXiv Paper on Neural Architecture Search**: Shared with Sarah Lee for her
-  AutoML project; became a key reference in her related work chapter
+- **Resource**: [README Writing Guide](https://github.com/banesullivan/README)
+- **Shared With**: Entire research group
+- **Purpose**: Shared a guide for writing a clear, detailed README so users can
+  understand how to try the tool and other developers can install and
+  contribute to it more easily.
 
 ## Additional Project Information
 
