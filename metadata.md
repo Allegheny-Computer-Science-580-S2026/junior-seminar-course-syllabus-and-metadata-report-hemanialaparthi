@@ -80,6 +80,16 @@ during presentations, demonstrations, or informal discussions. Include:
 - **Impact**: Will hopefully lead to Researcher to specify what test cases the instructor must write or how students can define sucess
 - **Reference**: [Link to the issue](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-Coltin2121/issues/12)
 
+- **Researcher Name / Project**: Johnny Sharsheev/ MaintAlign
+- **Feedback Provided**: Suggested improvements to the introduction by asking to define terms used, explain assumptions made and, add ethical section.
+- **Impact**: Will hopefully lead to Researcher to add missing content
+- **Reference**: [Link to the issue](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-Jsharsh33v/issues/2)
+
+- **Researcher Name / Project**: Johnny Sharsheev/ MaintAlign
+- **Feedback Provided**: Suggested improvements to the related work by prompting researcher to think about explaining how MaintAlign differs from existing tools
+- **Impact**: Will hopefully lead to Researcher being able to clearly state why their tool would be different that tools that already exist
+- **Reference**: [Link to the issue](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-Jsharsh33v/issues/4)
+
 ### Technical Discussions and Problem-Solving
 
 Document instances where you participated in collaborative technical
