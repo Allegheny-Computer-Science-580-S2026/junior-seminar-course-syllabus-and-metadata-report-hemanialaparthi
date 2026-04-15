@@ -38,11 +38,11 @@ A research group member should type their GitHub username below.
 
 ### GitHub Repository for Research Prototype
 
-- **Repository URL**: [URL of GitHub Repository for Research Prototype](https://github.com/Allegheny-Computer-Science-580-S2026/)
+- **Repository URL**: [URL of GitHub Repository for Research Prototype](https://github.com/hemanialaparthi/cotrace)
 
 ### GitHub Repository for Research Data
 
-- **Repository URL**: [URL of GitHub Repository for Research Data](https://github.com/Allegheny-Computer-Science-580-S2026/)
+- **Repository URL**: [URL of GitHub Repository for Research Data](https://github.com/hemanialaparthi/cotrace-research-data)
 
 ## Research Project Title
 
@@ -103,9 +103,11 @@ discussions or helped fellow researchers troubleshoot issues:
 
 Note particularly meaningful contributions during research group meetings:
 
-- **Week 5 / Research Ethics Discussion**: Led a conversation about user input
-  transparency, emphasizing that tools should clearly explain how they use
-  submitted data and what information they access.
+- **Week 1 / Project Brainstorming**: Discussed with Prof. Kapfhammer what I wanted to do the for my junior seminar project. Talked about trucking idea but idea was too big and hard to scope.
+- **Week 2 / Project Brainstorming**: Talked about collaboration issues, developed ideas about cotrace.
+- **Week 3 / Demo & Features**: Met with Prof. Kapfhammer to show features of cotrace. Talked about how a new tool should make it easier for a user to use instead of be harder to use. Decided to modify the layout and the UI of cotrace.
+- **Week 4 / Demo & Features**: Met w/ Prof. Luman to talk about the new interface. Prototyped it on Figma and made cotrace into a chat interface with different tabs such as contributions and diff changes.
+- **Week 5 / Research Ethics Discussion**: Led a conversation about user input transparency, emphasizing that tools should clearly explain how they use submitted data and what information they access.
 
 ### Research Resources Shared
 
