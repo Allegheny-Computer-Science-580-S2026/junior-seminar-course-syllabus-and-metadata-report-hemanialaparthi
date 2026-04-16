@@ -99,6 +99,14 @@ discussions or helped fellow researchers troubleshoot issues:
 - **Your Contribution**: I suggested using CSV as the primary input format and recommended adding a simple template file so users can format their data correctly before uploading.
 - **Outcome**:  This made the data-ingestion workflow clearer and more practical, and the template idea can lower adoption barriers for companies using MaintAlign.
 
+- **Discussion Topic / Problem**: During our diagram session, I had to review the structure of my teammate's diagram and their diagram was a bit hard to understand.
+- **Your Contribution**: I explained how they could use different types of arrows (dashes and solid) to showcase workflow and also add a legend to label and color coordinate each arrow
+- **Outcome**: This made the diagram a lot more easier to understand and also followed industry structure for tool diagrams
+
+- **Discussion Topic / Problem**: During our experiments discussion, we had to figure out what our graphs were actually showing, and one person in particular was hard to understand.
+- **Your Contribution**: I pointed out where the confusing section needed clearer context and explanation.
+- **Outcome**: Reached a shared understanding of the graph results and the explanation became clearer for both our group discussion.
+
 ### Research Group Meeting Participation
 
 Note particularly meaningful contributions during research group meetings:
@@ -108,6 +116,11 @@ Note particularly meaningful contributions during research group meetings:
 - **Week 3 / Demo & Features**: Met with Prof. Kapfhammer to show features of cotrace. Talked about how a new tool should make it easier for a user to use instead of be harder to use. Decided to modify the layout and the UI of cotrace.
 - **Week 4 / Demo & Features**: Met w/ Prof. Luman to talk about the new interface. Prototyped it on Figma and made cotrace into a chat interface with different tabs such as contributions and diff changes.
 - **Week 5 / Research Ethics Discussion**: Led a conversation about user input transparency, emphasizing that tools should clearly explain how they use submitted data and what information they access.
+- **Week 7 / Demos**: Demo'ed my work to my table/ research group and got feedback on usability and things to change
+- **Week 9/ Writing Chapter One**: Talked to professor Luman on how to write the chapter and got advice in drafting my first chapter
+- **Week 10/ References**: My research group and I got tips from professor Luman on how to cite sources in our paper. Our build was failing at first but after the help, we learnt how to properly cite references.
+- **Week 11/ Review Chapters**: Got Professor Luman and a senior to review my work and let me know what they think of my content.
+
 
 ### Research Resources Shared
 
@@ -119,6 +132,10 @@ with the research group that helped advance collective knowledge:
 - **Purpose**: Shared a guide for writing a clear, detailed README so users can
   understand how to try the tool and other developers can install and
   contribute to it more easily.
+
+- **Resource**: [How to read a academic research paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
+- **Shared With**: Entire research group
+- **Purpose**: Shared a guide by Standford University on how to read an academic research paper effectively to get through bunches of them at a time.
 
 ## Additional Project Information
 
