@@ -66,29 +66,29 @@ Document significant feedback you provided to other research group members
 during presentations, demonstrations, or informal discussions. Include:
 
 - **Researcher Name / Project**: Evan Nelson/ WorkoutEvaluator
-- **Feedback Provided**: Suggested improvements to the introduction
-- **Impact**: Will hopefully lead to Researcher implementing the suggestion in their introduction.
-- **Reference**: [Link to the issue](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-EvanNelson04/issues/7)
+  - **Feedback Provided**: Suggested improvements to the introduction
+  - **Impact**: Will hopefully lead to Researcher implementing the suggestion in their introduction.
+  - **Reference**: [Link to the issue](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-EvanNelson04/issues/7)
 
 - **Researcher Name / Project**: Logan Greer/ CaddySense
-- **Feedback Provided**: Suggested improvements to the introduction
-- **Impact**: Will hopefully lead to Researcher adding metrics limitation section and improve formatting
-- **Reference**: [Link to the issue](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-greer01/issues/15)
+  - **Feedback Provided**: Suggested improvements to the introduction
+  - **Impact**: Will hopefully lead to Researcher adding metrics limitation section and improve formatting
+  - **Reference**: [Link to the issue](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-greer01/issues/15)
 
 - **Researcher Name / Project**: Coltin Colucci/ GDBuddy
-- **Feedback Provided**: Suggested improvements to the introduction in section "Automating Embedded Testing"
-- **Impact**: Will hopefully lead to Researcher to specify what test cases the instructor must write or how students can define sucess
-- **Reference**: [Link to the issue](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-Coltin2121/issues/12)
+  - **Feedback Provided**: Suggested improvements to the introduction in section "Automating Embedded Testing"
+  - **Impact**: Will hopefully lead to Researcher to specify what test cases the instructor must write or how students can define sucess
+  - **Reference**: [Link to the issue](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-Coltin2121/issues/12)
 
 - **Researcher Name / Project**: Johnny Sharsheev/ MaintAlign
-- **Feedback Provided**: Suggested improvements to the introduction by asking to define terms used, explain assumptions made and, add ethical section.
-- **Impact**: Will hopefully lead to Researcher to add missing content
-- **Reference**: [Link to the issue](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-Jsharsh33v/issues/2)
+  - **Feedback Provided**: Suggested improvements to the introduction by asking to define terms used, explain assumptions made and, add ethical section.
+  - **Impact**: Will hopefully lead to Researcher to add missing content
+  - **Reference**: [Link to the issue](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-Jsharsh33v/issues/2)
 
 - **Researcher Name / Project**: Johnny Sharsheev/ MaintAlign
-- **Feedback Provided**: Suggested improvements to the related work by prompting researcher to think about explaining how MaintAlign differs from existing tools
-- **Impact**: Will hopefully lead to Researcher being able to clearly state why their tool would be different that tools that already exist
-- **Reference**: [Link to the issue](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-Jsharsh33v/issues/4)
+  - **Feedback Provided**: Suggested improvements to the related work by prompting researcher to think about explaining how MaintAlign differs from existing tools
+  - **Impact**: Will hopefully lead to Researcher being able to clearly state why their tool would be different that tools that already exist
+  - **Reference**: [Link to the issue](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-Jsharsh33v/issues/4)
 
 ### Technical Discussions and Problem-Solving
 
@@ -96,31 +96,40 @@ Document instances where you participated in collaborative technical
 discussions or helped fellow researchers troubleshoot issues:
 
 - **Discussion Topic / Problem**: During a demo presentation for MaintAlign, I asked how users should provide input data to the tool.
-- **Your Contribution**: I suggested using CSV as the primary input format and recommended adding a simple template file so users can format their data correctly before uploading.
-- **Outcome**:  This made the data-ingestion workflow clearer and more practical, and the template idea can lower adoption barriers for companies using MaintAlign.
+  - **Your Contribution**: I suggested using CSV as the primary input format and recommended adding a simple template file so users can format their data correctly before uploading.
+  - **Outcome**:  This made the data-ingestion workflow clearer and more practical, and the template idea can lower adoption barriers for companies using MaintAlign.
 
 - **Discussion Topic / Problem**: During our diagram session, I had to review the structure of my teammate's diagram and their diagram was a bit hard to understand.
-- **Your Contribution**: I explained how they could use different types of arrows (dashes and solid) to showcase workflow and also add a legend to label and color coordinate each arrow
-- **Outcome**: This made the diagram a lot more easier to understand and also followed industry structure for tool diagrams
+  - **Your Contribution**: I explained how they could use different types of arrows (dashes and solid) to showcase workflow and also add a legend to label and color coordinate each arrow
+  - **Outcome**: This made the diagram a lot more easier to understand and also followed industry structure for tool diagrams
 
 - **Discussion Topic / Problem**: During our experiments discussion, we had to figure out what our graphs were actually showing, and one person in particular was hard to understand.
-- **Your Contribution**: I pointed out where the confusing section needed clearer context and explanation.
-- **Outcome**: Reached a shared understanding of the graph results and the explanation became clearer for both our group discussion.
+  - **Your Contribution**: I pointed out where the confusing section needed clearer context and explanation.
+  - **Outcome**: Reached a shared understanding of the graph results and the explanation became clearer for both our group discussion.
 
 ### Research Group Meeting Participation
 
 Note particularly meaningful contributions during research group meetings:
 
 - **Week 1 / Project Brainstorming**: Discussed with Prof. Kapfhammer what I wanted to do the for my junior seminar project. Talked about trucking idea but idea was too big and hard to scope.
+
 - **Week 2 / Project Brainstorming**: Talked about collaboration issues, developed ideas about cotrace.
+
 - **Week 3 / Demo & Features**: Met with Prof. Kapfhammer to show features of cotrace. Talked about how a new tool should make it easier for a user to use instead of be harder to use. Decided to modify the layout and the UI of cotrace.
+
 - **Week 4 / Demo & Features**: Met w/ Prof. Luman to talk about the new interface. Prototyped it on Figma and made cotrace into a chat interface with different tabs such as contributions and diff changes.
+
 - **Week 5 / Research Ethics Discussion**: Led a conversation about user input transparency, emphasizing that tools should clearly explain how they use submitted data and what information they access.
+
 - **Week 7 / Demos**: Demo'ed my work to my table/ research group and got feedback on usability and things to change
+
 - **Week 9/ Writing Chapter One**: Talked to professor Luman on how to write the chapter and got advice in drafting my first chapter
+
 - **Week 10/ References**: My research group and I got tips from professor Luman on how to cite sources in our paper. Our build was failing at first but after the help, we learnt how to properly cite references.
+
 - **Week 11/ Review Chapters**: Got Professor Luman and a senior to review my work and let me know what they think of my content.
 
+- **Week 16/ Meet Professor Kapfhammer for final revisions**: Got feedback about project and what changes I need to make. Added CI/CD pipelines, error handling examples for my tool and fixed formatting of my metadata file.
 
 ### Research Resources Shared
 
@@ -139,7 +148,4 @@ with the research group that helped advance collective knowledge:
 
 ## Additional Project Information
 
-Please use this section to record any other relevant information about your
-Junior Seminar research project, your research process, or any other
-information that your research adviser or the research group coordinator deems
-important for you to document.
+One thing I really appreciated about Junior Seminar was how fast-paced it was. The quick pace was really motivating and pushed me to work harder throughout the semester. It kept momentum going on my project and forced me to stay focused. I also really liked our demo sessions. Being able to demo my work to the research group and get real feedback from my peers was super helpful and actually helped me build a working prototype. Going forward, I think it would be beneficial to have assignment repositories or some kind of tracking system to hold students accountable for chapter submissions during the writing sessions. Since we worked together as a class, I found it hard to finish my chapters on time, and I think having formal assignments with deadlines for each chapter would help make sure everyone stays on track. Also, having periodic grading on a set schedule instead of random grading time would be kind of nice because it would keep all submissions coming in on time and give students predictable milestones to plan around.
