@@ -4,7 +4,7 @@
 
 A research group member should type their name below.
 
-- **Researcher Name**: `Add Your Name Here`
+- **Researcher Name**: `Hemani Alaparthi`
 
 ## Reading Syllabus Pledge
 
@@ -12,7 +12,7 @@ A research group member should add an X-mark to the box to indicate that they
 have carefully read and understood the Junior Seminar Research Project Syllabus
 and that they are ready to complete their Junior Seminar Research Project.
 
-- [ ] I read the Junior Seminar Research Project Syllabus and am ready to begin
+- [X] I read the Junior Seminar Research Project Syllabus and am ready to begin
   the completion of my Junior Seminar Research Project.
 
 ## Honor Code Pledge
@@ -21,28 +21,28 @@ A research group member should add an X-mark to the box to indicate that they
 agree to adhere to the Allegheny College Honor Code during the completion of
 their Junior Seminar Research Project.
 
-- [ ] I agree to adhere to the Allegheny College Honor Code during the
+- [X] I agree to adhere to the Allegheny College Honor Code during the
   completion of my Junior Seminar Research Project.
 
 ## GitHub Username
 
 A research group member should type their GitHub username below.
 
-- **GitHub Username**: `Add Your GitHub Username Here`
+- **GitHub Username**: `hemanialaparthi`
 
 ## GitHub Repositories
 
 ### GitHub Repository for Research Report and Research Journal
 
-- **Repository URL**: [URL of GitHub Repository for Research Report and Journal](https://github.com/Allegheny-Computer-Science-580-S2026/)
+- **Repository URL**: [URL of GitHub Repository for Research Report and Journal](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-hemanialaparthi)
 
 ### GitHub Repository for Research Prototype
 
-- **Repository URL**: [URL of GitHub Repository for Research Prototype](https://github.com/Allegheny-Computer-Science-580-S2026/)
+- **Repository URL**: [URL of GitHub Repository for Research Prototype](https://github.com/hemanialaparthi/cotrace)
 
 ### GitHub Repository for Research Data
 
-- **Repository URL**: [URL of GitHub Repository for Research Data](https://github.com/Allegheny-Computer-Science-580-S2026/)
+- **Repository URL**: [URL of GitHub Repository for Research Data](https://github.com/hemanialaparthi/cotrace-research-data)
 
 ## Research Project Title
 
@@ -50,7 +50,7 @@ A research group member should type the title of their junior seminar research
 project into the following fenced code block.
 
 ```text
-Add the Title of Your Junior Seminar Research Project
+cotrace - Semantic Analysis and Summarization of Collaborative Document Revisions
 ```
 
 ## Research Group Contributions
@@ -65,82 +65,87 @@ researchers.
 Document significant feedback you provided to other research group members
 during presentations, demonstrations, or informal discussions. Include:
 
-- **Researcher Name / Project**: [Name of peer researcher and their project]
-- **Feedback Provided**: \[Brief description of the feedback, suggestions, or
-  questions you contributed\]
-- **Impact**: [If applicable, note how your feedback influenced their work]
-- **Reference**: [Provide a link to a GitHub repository's issue tracker]
+- **Researcher Name / Project**: Evan Nelson/ WorkoutEvaluator
+  - **Feedback Provided**: Suggested improvements to the introduction
+  - **Impact**: Will hopefully lead to Researcher implementing the suggestion in their introduction.
+  - **Reference**: [Link to the issue](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-EvanNelson04/issues/7)
 
-Example entries:
+- **Researcher Name / Project**: Logan Greer/ CaddySense
+  - **Feedback Provided**: Suggested improvements to the introduction
+  - **Impact**: Will hopefully lead to Researcher adding metrics limitation section and improve formatting
+  - **Reference**: [Link to the issue](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-greer01/issues/15)
 
-- **Student Name One / Machine Learning Bias Detection**: Suggested examining
-  fairness metrics beyond accuracy; Jane incorporated demographic parity analysis
-  into her evaluation framework
-- **Student Name Two / Distributed Caching System**: Asked about handling
-  network partitions during demo; led to important discussion about consistency
-  models
-- **Student Name Three / Graph Algorithm Visualization**: Recommended adding
-  real-time performance comparison; Alex added this feature in Week 12
+- **Researcher Name / Project**: Coltin Colucci/ GDBuddy
+  - **Feedback Provided**: Suggested improvements to the introduction in section "Automating Embedded Testing"
+  - **Impact**: Will hopefully lead to Researcher to specify what test cases the instructor must write or how students can define sucess
+  - **Reference**: [Link to the issue](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-Coltin2121/issues/12)
+
+- **Researcher Name / Project**: Johnny Sharsheev/ MaintAlign
+  - **Feedback Provided**: Suggested improvements to the introduction by asking to define terms used, explain assumptions made and, add ethical section.
+  - **Impact**: Will hopefully lead to Researcher to add missing content
+  - **Reference**: [Link to the issue](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-Jsharsh33v/issues/2)
+
+- **Researcher Name / Project**: Johnny Sharsheev/ MaintAlign
+  - **Feedback Provided**: Suggested improvements to the related work by prompting researcher to think about explaining how MaintAlign differs from existing tools
+  - **Impact**: Will hopefully lead to Researcher being able to clearly state why their tool would be different that tools that already exist
+  - **Reference**: [Link to the issue](https://github.com/Allegheny-Computer-Science-580-S2026/junior-seminar-project-journal-and-research-report-chapters-Jsharsh33v/issues/4)
 
 ### Technical Discussions and Problem-Solving
 
 Document instances where you participated in collaborative technical
 discussions or helped fellow researchers troubleshoot issues:
 
-- **Discussion Topic / Problem**: [Brief description]
-- **Your Contribution**: [What you shared, suggested, or helped debug]
-- **Outcome**: [How it helped advance the research]
+- **Discussion Topic / Problem**: During a demo presentation for MaintAlign, I asked how users should provide input data to the tool.
+  - **Your Contribution**: I suggested using CSV as the primary input format and recommended adding a simple template file so users can format their data correctly before uploading.
+  - **Outcome**:  This made the data-ingestion workflow clearer and more practical, and the template idea can lower adoption barriers for companies using MaintAlign.
 
-Example entries:
+- **Discussion Topic / Problem**: During our diagram session, I had to review the structure of my teammate's diagram and their diagram was a bit hard to understand.
+  - **Your Contribution**: I explained how they could use different types of arrows (dashes and solid) to showcase workflow and also add a legend to label and color coordinate each arrow
+  - **Outcome**: This made the diagram a lot more easier to understand and also followed industry structure for tool diagrams
 
-- **Docker Containerization Issues**: Shared my Dockerfile configuration and
-  helped three researchers set up their development environments
-- **Statistical Testing Discussion**: Explained paired t-tests vs. Wilcoxon
-  tests; helped multiple researchers choose appropriate tests for their
-  experiments
-- **GitHub Actions Debugging**: Collaborated with two researchers to fix CI/CD
-  pipeline failures; documented solution in group Slack channel
+- **Discussion Topic / Problem**: During our experiments discussion, we had to figure out what our graphs were actually showing, and one person in particular was hard to understand.
+  - **Your Contribution**: I pointed out where the confusing section needed clearer context and explanation.
+  - **Outcome**: Reached a shared understanding of the graph results and the explanation became clearer for both our group discussion.
 
 ### Research Group Meeting Participation
 
 Note particularly meaningful contributions during research group meetings:
 
-- **Meeting Date / Topic**: [When and what]
-- **Contribution**: [Question asked, insight shared, or resource provided]
-- **Value to Group**: [How it benefited the research community]
+- **Week 1 / Project Brainstorming**: Discussed with Prof. Kapfhammer what I wanted to do the for my junior seminar project. Talked about trucking idea but idea was too big and hard to scope.
 
-Example entries:
+- **Week 2 / Project Brainstorming**: Talked about collaboration issues, developed ideas about cotrace.
 
-- **Week 4 / Research Ethics Discussion**: Raised important questions about
-  data privacy in web scraping projects; led to productive discussion about
-  `robots.txt` and ethical boundaries
-- **Week 9 / Writing Workshop**: Shared effective strategies for writing
-  related work sections; multiple researchers found it helpful because it
-  clarified the way they should structure the second chapter of their report
-- **Week 11 / Results Visualization**: Demonstrated `matplotlib` customization
-  techniques; several researchers adopted similar approaches
+- **Week 3 / Demo & Features**: Met with Prof. Kapfhammer to show features of cotrace. Talked about how a new tool should make it easier for a user to use instead of be harder to use. Decided to modify the layout and the UI of cotrace.
+
+- **Week 4 / Demo & Features**: Met w/ Prof. Luman to talk about the new interface. Prototyped it on Figma and made cotrace into a chat interface with different tabs such as contributions and diff changes.
+
+- **Week 5 / Research Ethics Discussion**: Led a conversation about user input transparency, emphasizing that tools should clearly explain how they use submitted data and what information they access.
+
+- **Week 7 / Demos**: Demo'ed my work to my table/ research group and got feedback on usability and things to change
+
+- **Week 9/ Writing Chapter One**: Talked to professor Luman on how to write the chapter and got advice in drafting my first chapter
+
+- **Week 10/ References**: My research group and I got tips from professor Luman on how to cite sources in our paper. Our build was failing at first but after the help, we learnt how to properly cite references.
+
+- **Week 11/ Review Chapters**: Got Professor Luman and a senior to review my work and let me know what they think of my content.
+
+- **Week 16/ Meet Professor Kapfhammer for final revisions**: Got feedback about project and what changes I need to make. Added CI/CD pipelines, error handling examples for my tool and fixed formatting of my metadata file.
 
 ### Research Resources Shared
 
 Document any research papers, tools, tutorials, or other resources you shared
 with the research group that helped advance collective knowledge:
 
-- **Resource**: [Paper title, tool name, tutorial link, etc.]
-- **Shared With**: [Individual researcher or entire group]
-- **Purpose**: [Why you shared it and how it was relevant]
+- **Resource**: [README Writing Guide](https://github.com/banesullivan/README)
+- **Shared With**: Entire research group
+- **Purpose**: Shared a guide for writing a clear, detailed README so users can
+  understand how to try the tool and other developers can install and
+  contribute to it more easily.
 
-Example entries:
-
-- **"Testing in Production" Paper**: Shared with entire group during Week 7;
-  relevant for multiple systems research projects
-- **Plotly Visualization Tutorial**: Shared with four researchers working on
-  data-heavy projects; enabled interactive visualizations
-- **arXiv Paper on Neural Architecture Search**: Shared with Sarah Lee for her
-  AutoML project; became a key reference in her related work chapter
+- **Resource**: [How to read a academic research paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
+- **Shared With**: Entire research group
+- **Purpose**: Shared a guide by Standford University on how to read an academic research paper effectively to get through bunches of them at a time.
 
 ## Additional Project Information
 
-Please use this section to record any other relevant information about your
-Junior Seminar research project, your research process, or any other
-information that your research adviser or the research group coordinator deems
-important for you to document.
+One thing I really appreciated about Junior Seminar was how fast-paced it was. The quick pace was really motivating and pushed me to work harder throughout the semester. It kept momentum going on my project and forced me to stay focused. I also really liked our demo sessions. Being able to demo my work to the research group and get real feedback from my peers was super helpful and actually helped me build a working prototype. Going forward, I think it would be beneficial to have assignment repositories or some kind of tracking system to hold students accountable for chapter submissions during the writing sessions. Since we worked together as a class, I found it hard to finish my chapters on time, and I think having formal assignments with deadlines for each chapter would help make sure everyone stays on track. Also, having periodic grading on a set schedule instead of random grading time would be kind of nice because it would keep all submissions coming in on time and give students predictable milestones to plan around.
